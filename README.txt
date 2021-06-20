@@ -16,7 +16,7 @@ Este proyecto fue realizado como tarea para la facultad
 Teniamos que crear un formulario que cuente con validaciones.
 Esta realizado con HTML, boostrap, tiene validaciones con JavaScript y animaciones con JQuery
 
-https://mapaconmarcador.netlify.app/  --> La version que subi al servidor no me carga el diseño del mapa. Error a corregir
+https://mapaconmarcador.netlify.app/ 
 
 Este proyecto fue realizado como trabajo final para promocionar en la facultad
 Teniamos que realizar un diseño donde mostramos un boton, que al presionarlo, consumiamos una API que nos devolvia 
